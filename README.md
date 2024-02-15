@@ -18,21 +18,21 @@ This project is a clone of the Amazon home page created entirely from scratch us
 To view the Amazon clone home page, simply open the index.html file in a web browser.
 
 #Clone the repository
-git clone https://github.com/yourusername/AMAZON-CLONE.git
-#Navigate to the project directory
-cd AMAZON-CLONE
-#Open the index.html file in a web browser
+git clone https://github.com/yourusername/AMAZON-CLONE.git<br>
+#Navigate to the project directory<br>
+cd AMAZON-CLONE<br>
+#Open the index.html file in a web browser<br>
 
 # Folder Structure
-AMAZON-CLONE/
-│
-├── index.html
-├── css/
-│   └── styles.css
-├── amazon-logo.png
-├── box1.jpg
-├── box2.jpg
-└── ...
+AMAZON-CLONE/<br>
+│<br>
+├── index.html<br>
+├── css/<br>
+│   └── styles.css<br>
+├── amazon-logo.png<br>
+├── box1.jpg<br>
+├── box2.jpg<br>
+└── ...<br>
 
 # Contributing
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please feel free to open an issue or submit a pull request.
