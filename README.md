@@ -18,7 +18,7 @@ This project is a clone of the Amazon home page created entirely from scratch us
 To view the Amazon clone home page, simply open the index.html file in a web browser.
 
 #Clone the repository
-git clone https://github.com/yourusername/AMAZON-CLONE.git<br>
+git clone https://github.com/ayushuv/AMAZON-CLONE.git<br>
 #Navigate to the project directory<br>
 cd AMAZON-CLONE<br>
 #Open the index.html file in a web browser<br>
